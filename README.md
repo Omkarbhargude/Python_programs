@@ -89,6 +89,7 @@ dictionary_key_value_usage.py
 2. Navigate to a topic folder
 3. Run Python files: python filename.py
 
-##Author
+## Author
+
 **Omkar Bhargude**
 - Passionate about programming, problem-solving, and teaching.
