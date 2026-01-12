@@ -38,17 +38,17 @@ The code is written in a **simple, readable, and beginner-friendly manner**, wit
 
 ## 📂 Repository Structure
 
-python-basics/
-│
-├── 01_python_overview/
-├── 02_variables_and_datatypes/
-├── 03_operators/
-├── 04_control_flow/
-├── 05_functions/
-├── 06_modules/
-├── 07_oops/
-│
-└── README.md
+- python-basics/
+  │
+  ├── 01_python_overview/
+  ├── 02_variables_and_datatypes/
+  ├── 03_operators/
+  ├── 04_control_flow/
+  ├── 05_functions/
+  ├── 06_modules/
+  ├── 07_oops/
+  │
+  └── README.md
 
 
 Each folder contains **descriptive Python files** explaining the concept clearly.
@@ -62,13 +62,11 @@ Each folder contains **descriptive Python files** explaining the concept clearly
 - Simple examples for easy understanding
 - Beginner + interview-focused approach
 
-Example file naming:
-
-variables_and_assignment.py
-string_operations_explained.py
-list_mutability_demo.py
-dictionary_key_value_usage.py
-
+**Example file naming**:
+- variables_and_assignment.py
+- string_operations_explained.py
+- list_mutability_demo.py
+- dictionary_key_value_usage.py
 
 ---
 
