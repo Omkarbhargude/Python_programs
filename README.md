@@ -37,20 +37,15 @@ The code is written in a **simple, readable, and beginner-friendly manner**, wit
 ---
 
 ## 📂 Repository Structure
-
 python-programs/
-│
 ├── README.md
-│
-├── python_basics/
-│   ├── variables.py
-│   ├── datatypes.py
-│   ├── operators.py
-│   ├── control_flow.py
-│   ├── functions.py
-│   └── oops.py
-
-
+└── python_basics/
+    ├── variables.py
+    ├── datatypes.py
+    ├── operators.py
+    ├── control_flow.py
+    ├── functions.py
+    └── oops.py
 
 Each folder contains **descriptive Python files** explaining the concept clearly.
 
