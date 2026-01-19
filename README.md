@@ -88,4 +88,4 @@ Each folder contains **descriptive Python files** explaining the concept clearly
 ## Author
 
 **Omkar Bhargude**
-- Passionate about programming, problem-solving, and teaching.
+- Passionate about programming and problem-solving.
