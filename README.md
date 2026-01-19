@@ -29,6 +29,8 @@ The code is written in a **simple, readable, and beginner-friendly manner**, wit
 - Functional Arguments
 - Filter, Map, Reduce (FMR) concept
 - Modules & Packages (basics)
+- Multi-Threading and Multi-Processing
+- Exception Handling
 - Object-Oriented Programming (OOP)
   - class & object
   - constructor
